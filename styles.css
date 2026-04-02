@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+#header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color: rgb(93, 231, 98);
+    margin-bottom: 50px;
+    
+
+}
+
+#header img  {
+    height: 50px;
+    width:50px;
+}
+
+.main{
+    display:flex;
+
+}
+
+#container2 {
+    padding:0;
+    margin:10px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    height:500px;
+    width: 1000px;
+    
+    
+    
+}
+
+.left-sidebar{
+
+  border: 1px solid black;
+  height: 500px;
+  width: 200px;
+  background-color: aqua;
+  margin:10px;
+
+}
+
+.right-sidebar{
+  border: 1px solid black;
+  height: 500px;
+  width: 200px;
+  background-color: aqua;
+  margin:10px;
+}
+   
+
+h1{
+    text-align: center;
+}
+
+#student-col{
+    border:1px solid black;
+}
+
+
+
